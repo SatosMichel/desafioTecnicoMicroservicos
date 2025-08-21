@@ -161,7 +161,7 @@ Você pode copiar este bloco e substituir a seção `### Autor` no seu arquivo.
 
 **Michel Rebouças**
 
-  * **GitHub:** [https://github.com/Michel-Reboucas](https://github.com/Michel-Reboucas)
+  * **GitHub:** [https://github.com/SatosMichel](https://github.com/SatosMichel)
   * **LinkedIn:** [https://br.linkedin.com/in/michel-santos-rebouças-5a81b561](https://br.linkedin.com/in/michel-santos-rebou%C3%A7as-5a81b561)
   * **Instagram:** [@satosmichel\_oficial](https://www.instagram.com/satosmichel_oficial)
   * **WhatsApp:** [(71) 98736-4775](https://web.whatsapp.com/send?phone=557187364775)
