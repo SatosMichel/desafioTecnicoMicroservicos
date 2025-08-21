@@ -1,0 +1,5 @@
+com\dio\sistemapedidos\msprodutos\model\Produto.class
+com\dio\sistemapedidos\msprodutos\repository\ProdutoRepository.class
+com\dio\sistemapedidos\msprodutos\dto\ProdutoDTO.class
+com\dio\sistemapedidos\msprodutos\MsProdutosApplication.class
+com\dio\sistemapedidos\msprodutos\controller\ProdutoController.class

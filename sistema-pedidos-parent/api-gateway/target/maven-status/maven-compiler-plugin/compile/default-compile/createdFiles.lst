@@ -1,0 +1,3 @@
+com\dio\sistemapedidos\apigateway\ApiGatewayApplication.class
+com\dio\sistemapedidos\apigateway\config\AuthorizationHeaderFilter.class
+com\dio\sistemapedidos\apigateway\filter\AuthenticationFilter.class

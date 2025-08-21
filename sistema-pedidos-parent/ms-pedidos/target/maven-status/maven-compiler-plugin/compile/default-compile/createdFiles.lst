@@ -1,0 +1,6 @@
+com\dio\sistemapedidos\mspedidos\client\ProdutoClient.class
+com\dio\sistemapedidos\mspedidos\dto\PedidoRequestDTO.class
+com\dio\sistemapedidos\mspedidos\dto\ProdutoDTO.class
+com\dio\sistemapedidos\mspedidos\controller\PedidoController.class
+com\dio\sistemapedidos\mspedidos\MsPedidosApplication.class
+com\dio\sistemapedidos\mspedidos\dto\PedidoResponseDTO.class
