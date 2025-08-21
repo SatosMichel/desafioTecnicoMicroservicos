@@ -151,12 +151,6 @@ Todas as requisições devem ser feitas através do **API Gateway** (porta `8700
 
 -----
 
-Claro\! Aqui está a seção "Autor" do seu `README.md` atualizada com as novas informações.
-
-Você pode copiar este bloco e substituir a seção `### Autor` no seu arquivo.
-
------
-
 ### Autor
 
 **Michel Rebouças**
